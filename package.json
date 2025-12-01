@@ -1,0 +1,26 @@
+{
+  "name": "advent_of_code2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "ts-node day1.ts",
+    "start2": "ts-node day1_part2.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianowicka/Advent_of_Code2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianowicka/Advent_of_Code2025/issues"
+  },
+  "homepage": "https://github.com/julianowicka/Advent_of_Code2025#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
