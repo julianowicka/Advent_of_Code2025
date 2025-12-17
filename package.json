@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "ts-node day3.ts"
+    "start": "ts-node day3_part2.ts"
   },
   "repository": {
     "type": "git",
