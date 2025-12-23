@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "start": "ts-node day8.ts"
+    "start": "ts-node day9.ts"
   },
   "repository": {
     "type": "git",
