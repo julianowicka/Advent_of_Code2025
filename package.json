@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node day11.ts"
+    "start": "ts-node day12.ts"
   },
   "repository": {
     "type": "git",
